@@ -1,6 +1,6 @@
 {
   "name": "resolve-github-refs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Resolves all refs for a remote github repo, including heads, tags and pulls.",
   "main": "index.js",
   "scripts": {
