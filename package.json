@@ -12,8 +12,8 @@
   },
   "homepage": "https://github.com/thlorenz/resolve-github-refs",
   "dependencies": {
-    "hyperquest": "^0.3.0",
-    "through2": "^0.4.1"
+    "hyperquest": "~0.3.0",
+    "through2": "~0.4.1"
   },
   "devDependencies": {
     "tap": "~0.4.3"
